@@ -1,0 +1,14 @@
+body {
+	background-color: #CAD2C5 !important;
+}
+
+#border_par{
+	border-color:#8d99ae !important;
+}
+
+.peopleCarouselImg img {
+
+  min-height: 480px;
+  max-height: 480px;
+  margin: auto;
+}
